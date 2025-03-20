@@ -1,10 +1,16 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: Arial, sans-serif;
 }
 article{
-    background-color: rgb(#C2A878,#6B705C , #A4B8C4);
+    background-color: rgb(240, 240, 240)
 }
 nav{
     background-color: rgb(56, 55, 55);
+}
+footer {
+    background-color: rgb(0, 0, 0); /* Gris muy claro */
+    color: rgb(255, 255, 255); /* Gris medio */
+    padding: 20px 0;
 }
